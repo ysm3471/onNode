@@ -1,0 +1,11 @@
+https://www.koreaexim.go.kr/site/program/financial/exchangeJSON?authkey=bsjA5lGPw4KRwVBxyZFnrrHg6WlSZfdC&searchdate=20230502&data=AP01
+
+searchdate=검색하려는 날짜 (ex) 2015-01-01, 20150101, (DEFAULT)현재일)
+data=AP01 환율
+주말에는 환율 정보를 제공하지 않음
+당일 오전 11시 이전에는 정보를 제공하지 않음
+
+
+DEAL_BAS_R 매매기준율
+cur_nm 국가/통화명
+cur_unit 통화 코드

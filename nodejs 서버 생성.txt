@@ -1,0 +1,6 @@
+pakage.json 설치
+express 설치
+public 폴더 생성
+html,js,css,img,json파일 전부 public에 놓고 파일들 주소 변경
+node sever.js로 서버생성
+주소접속
